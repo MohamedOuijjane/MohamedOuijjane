@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MohamedOuijjane
+- 👀 I’m interested in software engineering, full-stack development, building scalable applications, and creating innovative solutions.
+- 🌱 I’m currently learning advanced backend technologies, cloud computing, and enhancing my skills with frameworks
+- 💞️ I’m looking to collaborate on open-source projects, web applications, and full-stack development projects, especially in the MERN stack.
+- 📫 You can reach me via email at 📧 ouijjane22@gmail.com or 📧 mohamedouijjane2024@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about tackling complex challenges. When I’m not coding, I enjoy learning about emerging technologies, experimenting with new tools, or working on personal side projects to expand my skills.
