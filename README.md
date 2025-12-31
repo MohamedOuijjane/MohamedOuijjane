@@ -1,16 +1,25 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-<h3>I’m interested in software engineering, full-stack development, building scalable applications, and creating innovative solutions.
-- I’m currently learning advanced backend technologies, cloud computing, and enhancing my skills with frameworks
-- I’m looking to collaborate on open-source projects, web applications, and full-stack development projects, especially in the MERN stack.
-- You can reach me via:</h3>
-##
+<h1 align="center">Hey 👋 What’s up?</h1>
+
+<h3 align="center">
+I’m Mohamed, a software engineering enthusiast focused on full-stack development and building scalable, real-world applications.
+</h3>
+
+<p align="center">
+• Currently deepening my backend expertise, exploring cloud computing, and strengthening my skills with modern frameworks<br/>
+• Open to collaborating on open-source projects, web platforms, and full-stack applications — especially within the MERN ecosystem<br/>
+• Feel free to reach out and connect
+</p>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 
 <br/>
 
