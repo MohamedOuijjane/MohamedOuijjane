@@ -3,34 +3,19 @@
 <h3 align="center">
 I’m Mohamed, a software engineering enthusiast focused on full-stack development and building scalable, real-world applications.
 </h3>
-
 <h4>
 • Currently deepening my backend expertise, exploring cloud computing, and strengthening my skills with modern frameworks<br/>
 • Open to collaborating on open-source projects, web platforms, and full-stack applications, especially within the MERN stack<br/>
 • Feel free to reach out and connect!
 </h4>
-
 <br/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
 </div>
-
 <br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br/>
-
 <h3 align="center">Technologies</h3>
 
 <div align="center">
