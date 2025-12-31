@@ -4,11 +4,20 @@
 I’m Mohamed, a software engineering enthusiast focused on full-stack development and building scalable, real-world applications.
 </h3>
 
-<p>
+<h4 align="center">
 • Currently deepening my backend expertise, exploring cloud computing, and strengthening my skills with modern frameworks<br/>
-• Open to collaborating on open-source projects, web platforms, and full-stack applications — especially within the MERN ecosystem<br/></p>
-  <h5 align="center" >Feel free to reach out and connect! </h5>
+• Open to collaborating on open-source projects, web platforms, and full-stack applications, especially within the MERN stack<br/>
+• Feel free to reach out and connect!
+</h4>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+</div>
 
 <br/>
 
@@ -20,17 +29,9 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
   </picture>
 </div>
 
-
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</div>
-
-<br/>
+<h3 align="center">Technologies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -63,13 +64,13 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 
 <br/>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3 align="center">🔝 Top Contributed Repos</h3>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohamedouijjane&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
----
+<hr/>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohamedouijjane&icon=7&color=0" />
@@ -86,7 +87,7 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 <br/>
 
 <div align="center">
-  <img style="width:100%; display:block; margin:auto;" src="https://capsule-render.vercel.app/api?type=soft&height=92&section=footer&reversal=false&text=OUIJJANE&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=undefined" />
+  <img style="width:100%; display:block; margin:auto;" src="https://capsule-render.vercel.app/api?type=soft&height=92&section=footer&text=OUIJJANE&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling" />
 </div>
 
 <br/>
@@ -94,6 +95,3 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/snake.svg" alt="Snake animation" />
 </div>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
