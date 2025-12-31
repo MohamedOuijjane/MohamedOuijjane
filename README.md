@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-
+<h3>I’m interested in software engineering, full-stack development, building scalable applications, and creating innovative solutions.
+- I’m currently learning advanced backend technologies, cloud computing, and enhancing my skills with frameworks
+- I’m looking to collaborate on open-source projects, web applications, and full-stack development projects, especially in the MERN stack.
+- You can reach me via:</h3>
+##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/pacman-contribution-graph-dark.svg">
