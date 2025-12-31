@@ -64,17 +64,13 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 
 <br/>
 
-<h3 align="center">🔝 Top Contributed Repos</h3>
+<h3 align="center"> Top Contributed Repos</h3>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohamedouijjane&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <hr/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohamedouijjane&icon=7&color=0" />
-</div>
 
 <br/>
 
@@ -86,12 +82,8 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 
 <br/>
 
-<div align="center">
-  <img style="width:100%; display:block; margin:auto;" src="https://capsule-render.vercel.app/api?type=soft&height=92&section=footer&text=OUIJJANE&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=OUIJJANE&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedouijjane/mohamedouijjane/output/snake.svg" alt="Snake animation" />
-</div>
+###
