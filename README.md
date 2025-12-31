@@ -4,11 +4,11 @@
 I’m Mohamed, a software engineering enthusiast focused on full-stack development and building scalable, real-world applications.
 </h3>
 
-<p align="center">
+<p>
 • Currently deepening my backend expertise, exploring cloud computing, and strengthening my skills with modern frameworks<br/>
-• Open to collaborating on open-source projects, web platforms, and full-stack applications — especially within the MERN ecosystem<br/>
-• Feel free to reach out and connect
-</p>
+• Open to collaborating on open-source projects, web platforms, and full-stack applications — especially within the MERN ecosystem<br/></p>
+  <h5 align="center" >Feel free to reach out and connect! </h5>
+
 
 <br/>
 
