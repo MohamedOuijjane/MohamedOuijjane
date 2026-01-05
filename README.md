@@ -6,7 +6,7 @@ I’m Mohamed, a software engineering enthusiast focused on full-stack developme
 <h4>
 • Currently deepening my backend expertise, exploring cloud computing, and strengthening my skills with modern frameworks<br/>
 • Open to collaborating on open-source projects, web platforms, and full-stack applications, especially within the MERN stack<br/>
-• Feel free to reach out and connect!
+<div align="center"> <h4>Feel free to reach out and connect! </h4> </div>
 </h4>
 <br/>
 <div align="center">
