@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Mohamed%20Ouijjane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20%26%20Cloud-Native&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Mohamed Ouijjane — Software Engineer • Full-Stack • Data & Cloud-Native"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=640&lines=Java+%2F+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Python;Containers+%E2%86%92+Kubernetes+%E2%86%92+CI%2FCD+%E2%86%92+Cloud;Data+pipelines+with+Airflow+%26+PostgreSQL;Open+to+a+PFE+internship+in+2027+%F0%9F%9A%80" alt="Typing SVG" />
@@ -34,10 +34,8 @@ role:        Software Engineering student — Master IL (Excellence Program), Un
 graduating:  2027
 looking_for: End-of-studies internship (PFE) — 2027
 focus:       [Backend (Java/Spring), Full-Stack (Next.js/React), Data Engineering, Cloud-Native]
-languages:   [Arabic (native), French (B2), English (B2)]
 ```
 
-- 🏢 **Software Engineering Intern @ OCP Group** (Human Capital Division) — built an HR decision-support platform end-to-end: Spring Boot 4 / Java 21 APIs, Next.js dashboards, Airflow ETL into a PostgreSQL data warehouse, Camunda 8 workflows, Docker + Kubernetes, CI/CD and full observability.
 - ⚙️ Passionate about **distributed systems**, **cloud-native architecture** and turning manual processes into reliable software.
 - 🤝 Open to collaborating on **open-source**, **backend platforms** and **full-stack applications**.
 
@@ -204,16 +202,6 @@ My personal site, built for **performance, SEO and a clean UI** — deployed on 
 
 ---
 
-## 💼 Experience
-
-| | Role | Highlights |
-|---|---|---|
-| 🏭 **OCP Group** — Human Capital Division<br/><sub>Jun 2026 – Oct 2026 · Jorf Lasfar</sub> | Software Engineer Intern — Full-Stack & Data Engineering | Spring Boot 4 / Java 21 · Keycloak RBAC · Airflow ETL → PostgreSQL DWH · Next.js 16 dashboards · Camunda 8 · Docker/K8s · CI/CD · Prometheus/Grafana/OTel |
-| 🥛 **COPAG**<br/><sub>Apr 2022 – Jul 2022 · Taroudant</sub> | Full-Stack Developer Intern | Generic Master Data Management platform (Angular, Node/Express, SQL Server) — data creation time cut from **days to < 5 min** |
-| 🏛️ **Ministry of the Interior**<br/><sub>Jul 2021 – Aug 2021 · Taroudant</sub> | Web Development Intern | IT asset management web app (PHP, MySQL, Sass) |
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -272,6 +260,6 @@ My inbox is open — I usually reply within 24 hours.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
