@@ -14,7 +14,7 @@
 <a href="https://github.com/MohamedOuijjane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://wa.me/212656706270"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="mailto:ouijjane22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wejan-lime.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://mohamedouijjane.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -175,7 +175,7 @@ Construction-site management platform built as **4 dockerised microservices** in
 <tr>
 <td colspan="2" valign="top">
 
-### ✨ [Personal Portfolio](https://github.com/MohamedOuijjane/MohamedOuijjanePortfolio) · [Live demo ↗](https://wejan-lime.vercel.app)
+### ✨ [Personal Portfolio](https://github.com/MohamedOuijjane/MohamedOuijjanePortfolio) · [Live demo ↗](https://mohamedouijjane.me)
 My personal site, built for **performance, SEO and a clean UI** — deployed on Vercel. The best place to see my projects, experience and contact info in one page.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
@@ -228,13 +228,13 @@ My personal site, built for **performance, SEO and a clean UI** — deployed on 
 
 ---
 
-## ☕ Support my work
+## 💖 Support my work
 
 <div align="center">
 
 If my projects helped you or you just want to say thanks:
 
-<a href="https://buymeacoffee.com/ouijjane"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+<a href="https://github.com/sponsors/MohamedOuijjane"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
 
 </div>
 
@@ -256,7 +256,7 @@ My inbox is open — I usually reply within 24 hours.
 | <a href="mailto:ouijjane22@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Gmail"/></a> | [**ouijjane22@gmail.com**](mailto:ouijjane22@gmail.com) | Detailed proposals, CV requests |
 | <a href="https://wa.me/212656706270"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp"/></a> | [**WhatsApp**](https://wa.me/212656706270) | Quick questions |
 | <a href="https://github.com/MohamedOuijjane"><img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/></a> | [**GitHub**](https://github.com/MohamedOuijjane) | Code collaboration & issues |
-| <a href="https://wejan-lime.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="32" alt="Portfolio"/></a> | [**Portfolio**](https://wejan-lime.vercel.app) | Everything in one place |
+| <a href="https://mohamedouijjane.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90-0f172a?style=for-the-badge" height="32" alt="Portfolio"/></a> | [**mohamedouijjane.me**](https://mohamedouijjane.me) | Everything in one place |
 
 <br/>
 
